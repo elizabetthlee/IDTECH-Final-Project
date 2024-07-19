@@ -10,7 +10,7 @@
 # 3. No tumor
 # 4. Pituitary
 
-# The dataset has parentheses in the image file names, so they should be renamed before running specific images
+# The dataset has parentheses in the image file names, so they should be renamed before running specific images.
 
 #  This project could be modified to work with a data set that includes more types of brain tumors. Datasets of MRI scans are pretty limited online due to patient confidentiality. 
 
