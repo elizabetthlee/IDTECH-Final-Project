@@ -5,10 +5,10 @@
 # The commands run in the terminal are similar to the one used in the Retraining Image Classification Models module example, but some names are changed to correspond with the data.
 
 #  The class numbers correspond to the following tumors:
-# 0. Glioma
-# 1. Meningioma
-# 2. No tumor
-# 3. Pituitary
+# 1. Glioma
+# 2. Meningioma
+# 3. No tumor
+# 4. Pituitary
 
 # The dataset has parentheses in the image file names, so they should be renamed before running specific images
 
